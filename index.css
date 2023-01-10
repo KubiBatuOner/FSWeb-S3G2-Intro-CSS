@@ -1,0 +1,144 @@
+h1 {
+  margin-top: 0px;
+  font-family: "Chelsea Market", sans-serif;
+}
+
+.container {
+  width: 750px;
+  margin: 0 auto;
+  font-family: "Roboto Mono";
+}
+.header_img {
+  display: inline-block;
+  width: 20%;
+  margin: 5% 0;
+}
+.header_img img {
+  border-radius: 50%;
+  width: 100%;
+  height: 150px;
+}
+
+.main-text {
+  display: inline-block;
+  width: 75%;
+  text-align: center;
+  vertical-align: top;
+  margin: 5% 0;
+}
+
+.main-text p {
+  margin: 0 0;
+  font-family: "Roboto Mono";
+}
+
+header .container nav {
+  width: 75%;
+}
+
+header .container nav a {
+  width: 20%;
+  height: 4%;
+  background-color: #5ed3eb;
+  margin: 10px 18%;
+  padding: 18px 20px;
+  border-radius: 10px;
+  color: white;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  font-family: "Roboto Mono";
+}
+
+header .container nav a:first-child {
+  background-color: #ff764e;
+  padding: 10px 20px;
+  margin: 10px 2%;
+  vertical-align: middle;
+  text-align: center;
+  font-family: "Roboto Mono";
+}
+
+header .container nav a:last-child {
+  background-color: #ffcd69;
+  margin: 20px 2%;
+  vertical-align: middle;
+  text-align: center;
+  font-family: "Roboto Mono";
+}
+
+.container-content {
+  width: 1025px;
+  height: 160px;
+  vertical-align: middle;
+  margin: 0 auto 30px;
+  background-color: #ddb9a3;
+  color: white;
+  font-family: "Roboto Mono";
+}
+
+body {
+  padding: 20px 0 0 0;
+  margin: 0;
+}
+
+span {
+  font-weight: bold;
+}
+
+.event {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.event img {
+  width: 40%;
+  margin: 0 auto;
+  display: block;
+}
+
+p {
+  text-align: center;
+  width: 100%;
+}
+
+footer {
+  background-color: #f9e7dc;
+  vertical-align: middle;
+}
+
+.son-resim img {
+  width: 100%;
+  height: 350px;
+}
+
+nav a {
+  width: 14%;
+  height: 4%;
+  background-color: #5ed3eb;
+  margin: 10px 20%;
+  padding: 18px 20px;
+  border-radius: 10px;
+  color: white;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  font-family: "Roboto Mono";
+}
+
+nav a:first-child {
+  background-color: #ff764e;
+  padding: 10px 20px;
+  margin: 10px 2%;
+  vertical-align: middle;
+  text-align: center;
+  font-family: "Roboto Mono";
+}
+
+nav a:last-child {
+  background-color: #ffcd69;
+  margin: 20px 2%;
+  vertical-align: middle;
+  text-align: center;
+  font-family: "Roboto Mono";
+}
